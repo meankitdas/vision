@@ -41,7 +41,7 @@ This project aims to develop an application for identifying objects in images us
 
 4. Configure the application by providing the required environment variables, such as the Google Cloud Project ID and API key.
 
- 5. Run the myntra.py script:
+ 5. Run the main.py script:
 
  ```bash
   python main.py
